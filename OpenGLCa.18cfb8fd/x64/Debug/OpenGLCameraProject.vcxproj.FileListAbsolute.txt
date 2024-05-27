@@ -1,0 +1,5 @@
+C:\Users\josef\Documents\Universidad\TFG\OpenGLCameraProject\x64\Debug\mosquitto.dll
+C:\Users\josef\Documents\Universidad\TFG\OpenGLCameraProject\x64\Debug\libssl-3-x64.dll
+C:\Users\josef\Documents\Universidad\TFG\OpenGLCameraProject\x64\Debug\libcrypto-3-x64.dll
+C:\Users\josef\Documents\Universidad\TFG\OpenGLCameraProject\x64\Debug\pthreadVC3d.dll
+C:\Users\josef\Documents\Universidad\TFG\OpenGLCameraProject\OpenGLCa.18cfb8fd\x64\Debug\OpenGLCa.A06D8F41.Up2Date
